@@ -5,11 +5,11 @@
 
 Welcome to dutest's documentation!
 ==================================
-
+Contents:
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   hello
 
 
 Indices and tables
